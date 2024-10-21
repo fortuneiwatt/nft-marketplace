@@ -1,0 +1,337 @@
+.containers{
+    background-color: rgb(46, 45, 45);
+}
+.navbar{
+    height: 70px;
+}
+.Nft{
+    text-decoration: none;
+    color: white;
+    margin-left: 3%;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.nft{
+    color: blueviolet;
+    padding-right: 5px;
+}
+.Market{
+    color: white;
+    padding-left: 16%;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: -2%;
+}
+.Rankings{
+    color: white;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: -2%;
+}
+.Connect{
+    color: white;font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 100px;
+}
+.Button{
+    background-color: blueviolet;
+    color: white;
+    margin-right: 5%;
+    width: 10%;
+    height: 50px;
+    border-radius:15px;
+}
+.body{
+    margin-top: 4%;
+    margin-left: 6%;
+}
+.Body-a{
+   display: flex;
+   
+}
+.Disc{
+    width: 50%;
+    color: white;
+}
+.Discover{
+    font-size: 50px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.Anima{
+    color: rgb(205, 206, 207);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.cursur{
+    background-color: blueviolet;
+    color: white;
+    border-radius: 15px;
+    width: 24%;
+    height: 50px;
+}
+.Walk{
+    box-shadow:0 6px 20px 0 rgb(14, 12, 12) ;
+    color: white;
+    border-radius: 10px;
+    padding-left: 20px;
+    height: 20%;
+    padding-top: 20px;
+}
+.k24{
+    display: flex; 
+    margin-top: 20px;
+}
+.tot{
+    padding-right: 30px;
+    font-size: 20px;
+}
+.auc{
+    padding-left: 30px;
+    font-size: 20px;
+}
+.art{
+    padding-left: 80px;
+    font-size: 20px;
+}
+.animakid{
+    margin-top: 15px;
+    height: 40px;
+    padding-right: 20px;
+}
+.Anim{
+    padding-top: 100px;
+    font-size:10px;
+}
+.trend{
+   color: white;
+   padding-top: 120px;
+}
+.Trending{
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+.check{
+    font-size: 25px;
+}
+.dg{
+    display: flex;
+}
+.dog{
+    margin: 5px;
+    margin-right: 60px;
+}
+.mush{
+    margin: 5px;
+    margin-left: 30px;
+    
+}
+.tran{
+    margin: 5px;
+    margin-left: 30px;
+   
+}
+.animals{
+    display: flex;
+    margin-top: 8%;
+}
+.cat{
+    
+}
+.glassdog{
+    margin-left: -75px;
+}
+.icon{
+    margin-left: -75px;
+}
+.Ds{
+    color: white;
+}
+.dsg{
+    font-size: 20px;
+}
+.mr{
+    color: white;
+    font-size: 15px;
+}
+.dtext{
+    padding-left: 15px;
+}
+.top{
+    margin-top: 60px;
+    margin-left: 90px; 
+    margin-top: 100px;
+}
+.Top{
+    color: white;
+    font-size: 30px; 
+    
+}
+.our{
+    color: white;
+    font-size: 15px;
+}
+.viewrank{
+    border-radius: 15px ;
+    color: white;
+    background-color: rgb(46, 45, 45);
+    border-color: blueviolet;
+    width: 20%;
+    height: 50px;
+    margin-left: 45%;
+}
+.users{
+    display: flex;
+    margin-left: 8%;
+    margin-top: 10%;
+}
+.user{
+    display: flex;
+    margin-left: 8%;
+    margin-top: 2%;
+}
+/* ten{
+    background-color: rgb(36, 35, 35);
+    width: 30px;
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 30px;
+    padding-left: 5px;
+    padding-top: 3px;
+    color: rgb(105, 100, 100);
+    border-radius: 100%;
+} */
+.eleven{
+    background-color: rgb(36, 35, 35);
+    width: 30px;
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 30px;
+    padding-left: 5px;
+    padding-top: 3px;
+    color: rgb(105, 100, 100);
+    border-radius: 100%;
+}
+.twelve{
+    background-color: rgb(36, 35, 35);
+    width: 30px;
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 30px;
+    padding-left: 5px;
+    padding-top: 3px;
+    color: rgb(105, 100, 100);
+    border-radius: 100%;
+}
+.one{
+    background-color: rgb(36, 35, 35);
+    width: 30px;
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 30px;
+    padding-left: 10px;
+    padding-top: 3px;
+    color: rgb(105, 100, 100);
+    border-radius: 100%;
+}
+.two{
+    background-color: rgb(36, 35, 35);
+    width: 30px;
+    height: 30px;
+    padding-left: 10px;
+    padding-top: 2px;
+    margin-top: 20px;
+    margin-left: 20px;
+    color: rgb(105, 100, 100);
+    border-radius: 100%;
+}
+.three{
+    background-color: rgb(36, 35, 35);
+    width: 30px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding-left: 10px;
+    padding-top: 3px;
+    color: rgb(105, 100, 100);
+    border-radius: 100%;
+}
+.four{
+    background-color: rgb(36, 35, 35);
+    width: 30px;
+    height: 30px;
+    padding-left: 10px;
+    padding-top: 3px;
+    margin-top: 20px;
+    margin-left: 20px;
+    color: rgb(105, 100, 100);
+    border-radius: 100%;
+}
+.firstrow{
+    background-color: rgb(53, 53, 53);
+    border-radius: 20px;
+    width: 20%;
+    
+}
+.keep{
+    font-size: 25px;
+    color: white;
+    padding-left: 50px;
+    padding-top: 30px;
+}
+.total{
+    padding-left: 30px;
+    color: rgb(151, 149, 149);
+}
+.eth{
+    color: white;
+    font-size: 15px;
+    padding-left: 8px;
+}
+.Digi{
+    font-size: 25px;
+    color: white;
+    padding-left: 70px;
+    padding-top: 30px;
+}
+.wom{
+   
+    margin-left: 60px ;
+}
+.old{
+    margin-left: 55px ;
+}
+.hair{
+    margin-left: 55px ;
+}
+.juan{
+    margin-left: 65px ;
+}
+.juep{
+    font-size: 25px;
+    color: white;
+    padding-left: 80px;
+    padding-top: 30px;
+}
+.toti{
+    padding-left: 50px;
+    color: rgb(151, 149, 149);
+}
+.secrow{
+    background-color: rgb(53, 53, 53);
+    border-radius: 20px;
+    width: 20%;
+    margin-left: 40px;
+}
+.thirdrow{
+    background-color: rgb(53, 53, 53);
+    border-radius: 20px;
+    width: 20%;
+    margin-left: 40px;
+}
+.fourow{
+    background-color: rgb(53, 53, 53);
+    border-radius: 20px;
+    width: 20%;
+    margin-left: 40px;
+    
+}
