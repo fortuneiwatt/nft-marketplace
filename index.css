@@ -617,12 +617,14 @@
     margin-bottom: 40px;
 }
 .jo{
-    margin-left: -70%;
-    margin-top: 80px;
+    position: absolute;
+    margin-left: 45%;
+    margin-top: 50px;
     color: white;
 }
 .joi{
     font-size: 40px;
+    width: 50%;
 }
 .get{
     font-size: 20px;
@@ -638,7 +640,7 @@
     background-color: white;
     color: black;
     border-radius: 20px;
-    width: 70%;
+    width: 200px;
     height: 50px;
 }
 .vio{
@@ -646,7 +648,7 @@
     color: white;
     border-radius: 20px;
     width: 200px;
-    margin-left: 190px;
+    margin-left: 178px;
     height: 50px;
     position: absolute;
 
@@ -676,6 +678,7 @@
 .line{
     background-color: rgb(54, 54, 54);
     margin-top: -6px;
+    height: 60px;
 }
 .lin{
     
