@@ -1,5 +1,6 @@
 .containers{
     background-color: rgb(46, 45, 45);
+    width: 100%;
 }
 .navbar{
     height: 70px;
@@ -76,6 +77,7 @@
     padding-left: 20px;
     height: 20%;
     padding-top: 20px;
+    margin-top: -10px;
 }
 .k24{
     display: flex; 
@@ -332,6 +334,358 @@
     background-color: rgb(53, 53, 53);
     border-radius: 20px;
     width: 20%;
-    margin-left: 40px;
+    margin-left: 40px; 
+}
+.blur{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 8%;
+}
+.Artistic{
+    background-color: rgb(54, 54, 54);
+    color: white;
+    padding-top: 30px;
+    margin-top: -34px;
+    width: 120%;
+    height: 70px;
+    padding-left: 40px;
+    border-radius: 15px;
+}
+.collectible{
+    margin-left: 120px;
+}
+.music{
+    margin-left: 120px;
+}
+.photograph{
+    margin-left: 120px;
+}
+.Collectib{
+    background-color: rgb(54, 54, 54);
+    color: white;
+    padding-top: 30px;
+    margin-top: -34px;
+    width: 125%;
+    height: 70px;
+    padding-left: 40px;
+    border-radius: 15px;
+}
+.mus{
+    background-color: rgb(54, 54, 54);
+    color: white;
+    padding-top: 30px;
+    margin-top: -34px;
+    width: 125%;
+    height: 70px;
+    padding-left: 40px;
+    border-radius: 15px;
+}
+.photog{
+    background-color: rgb(54, 54, 54);
+    color: white;
+    padding-top: 30px;
+    margin-top: -34px;
+    width: 62%;
+    height: 70px;
+    padding-left: 40px;
+    border-radius: 15px;
+}
+.videoo{
+    background-color: rgb(54, 54, 54);
+    color: white;
+    padding-top: 30px;
+    margin-top: -34px;
+    width: 87%;
+    height: 70px;
+    padding-left: 40px;
+    border-radius: 15px;
+}
+.utility{
+    background-color: rgb(54, 54, 54);
+    color: white;
+    margin-left: -60px;
+    padding-top: 30px;
+    margin-top: -28px;
+    width: 120%;
+    height: 60px;
+    padding-left: 40px;
+    border-radius: 15px;
+}
+.sport{
+    background-color: rgb(54, 54, 54);
+    color: white;
+    margin-left: -60px;
+    padding-top: 30px;
+    margin-top: -34px;
+    width: 120%;
+    height: 70px;
+    padding-left: 40px;
+    border-radius: 15px;
+}
+.world{
+    background-color: rgb(54, 54, 54);
+    color: white;
+    margin-left: -70px;
+    padding-top: 30px;
+    margin-top: -34px;
+    width: 125%;
+    height: 70px;
+    padding-left: 40px;
+    border-radius: 15px;
+}
+.paint{
+    position: absolute;
+    margin-top: -12%;
+    margin-left: 60px;
+}
+.swat{
+    position: absolute;
+    margin-top: -12%;
+    margin-left: 60px;
+}
+.note{
+    position: absolute;
+    margin-top: -12%;
+    margin-left: 60px;
+}
+.cam{
+    position: absolute;
+    margin-left: -12%;
+    margin-top: 60px;
+}
+.videocam{
+    position: absolute;
+    margin-left: -12%;
+    margin-top:60px;
+}
+.plan{
+    position: absolute;
+    margin-left: -12%;
+    margin-top:60px;
+}
+.ball{
+    position: absolute;
+    margin-left: -12%;
+    margin-top:60px;
+}
+.wind{
+    position: absolute;
+    margin-left: -12%;
+    margin-top:60px;
+}
+.discov{
+    color: white;
+    margin-left: 8%;
+    margin-top: 10%;
+}
+.seeall{
+    margin-left: 61%;
+    width: 12%;
+    height: 8%;
+    border-radius: 15px;
+    background-color: transparent;
+    border-color: blueviolet;
+    color: white;
+    font-size: 20px;
+}
+.Gala{
+    display: flex;
+    margin-top: 8%;
+}
+.galaxy{
+    margin-left: 8%;
     
+}
+.life{
+    margin-left: -70px;
+}
+.astro{
+    margin-left: -70px;
+}
+.distance{
+    color: white;
+    background-color: rgb(54, 54, 54);
+    margin-top: -4%;
+    padding-left: 20px;
+    padding-top: 20px;
+    height:42% ;
+    margin-left: 0.1px;
+    width: 70%;
+}
+.moondance{
+    margin-top: 10px;
+}
+.price{
+    
+    margin-top: 30px;
+}
+.Pr{
+    color: rgb(156, 156, 156);
+}
+.high{
+    float: right;
+    color: rgb(156, 156, 156);
+    padding-right: 20px;
+}
+.et{
+    font-size: 20px;
+}
+.ethh{
+    font-size: 20px;
+    float: right;
+    padding-right: 20px;
+}
+.over{
+    background-image:;
+    margin-top: 10%;
+    width: 100%;
+}
+.Overlay{
+    position: absolute;
+    margin-top: 5%;
+}
+.how{
+    margin-left: 10%;
+    margin-top: 9%;
+    color: white;
+}
+.fin{
+    color: white;
+    font-size: 40px;
+}
+.start{
+    color: rgb(175, 175, 175);
+    font-size: 25px;
+}
+.work{
+    display: flex;
+    margin-top: 6%;
+    margin-left: 6%;
+    color: white;
+}
+.atm{
+    width: 25%;
+    background-color: rgb(54, 54, 54);
+    margin-left: 50px;
+    border-radius: 15px;
+}
+.cary{
+    width: 25%;
+    margin-left: 60px;
+    background-color: rgb(54, 54, 54);
+    border-radius: 15px;
+}
+
+.cards{
+    margin-left: 60px;
+    margin-right: ;
+    width: 25%;
+    background-color: rgb(54, 54, 54);
+    border-radius: 15px;
+}
+.you{
+    padding-left: 50px;
+}
+.cho{
+    color: rgb(182, 182, 182);
+    padding-left: 15px;
+    margin-bottom: 20px;
+}
+.con{
+    color: rgb(182, 182, 182);
+    padding-left: 10px;
+}
+.click{
+    color: rgb(182, 182, 182);
+    padding-left: 7px;
+}
+.corn{
+    color: rgb(182, 182, 182);
+    padding-left: 70px;
+}
+.galaxyy{
+    display: flex;
+    background-color: rgb(54, 54, 54);
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 8%;
+    border-radius: 15px;
+}
+.gal{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 40px;
+}
+.jo{
+    margin-left: -70%;
+    margin-top: 80px;
+    color: white;
+}
+.joi{
+    font-size: 40px;
+}
+.get{
+    font-size: 20px;
+    margin-top: 50px;
+}
+.wivi{
+    margin-top: 50px;
+    width: 100%;
+    height: 70px;
+    display: flex;
+}
+.whit{
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    width: 70%;
+    height: 50px;
+}
+.vio{
+    background-color: blueviolet;
+    color: white;
+    border-radius: 20px;
+    width: 200px;
+    margin-left: 190px;
+    height: 50px;
+    position: absolute;
+
+}
+.footer{
+    background-color: rgb(54, 54, 54);
+    margin-top: 40px;
+    display: flex;
+}
+.foota{
+    margin-left: 9%;
+    color: white;
+    font-size: 30px;
+    width: 30%;
+}
+.footb{
+    margin-top: 8px;  
+     color: white;
+     font-size: 15px;
+}
+.footc{
+    margin-top: 10px;
+    margin-left: 10%;
+    color: white;
+    font-size: 15px;
+}
+.line{
+    background-color: rgb(54, 54, 54);
+    margin-top: -6px;
+}
+.lin{
+    
+     border-bottom: 3px solid rgb(187, 187, 187); 
+     width: 80%;
+     margin-left: 9%; 
+     margin-right: 12%;
+}
+.write{
+    color: rgb(151, 149, 149);
+    margin-left: 9%;
+    margin-top: 10pxgut;
 }
